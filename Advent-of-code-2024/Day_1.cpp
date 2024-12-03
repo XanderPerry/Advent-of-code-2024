@@ -9,7 +9,7 @@
 #define LINE_LEN 13
 #define N_LINES 1000
 
-int main()
+int Day1(void)
 {
 	///////////////////////////////////////////////
 	//
